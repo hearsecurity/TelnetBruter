@@ -1,4 +1,4 @@
-<h3>Simple telnet bruters in c++ </h3><br>
+<h3>Simple telnet bruters in c++ </h3>
 
 ### Compilation and execution
 
